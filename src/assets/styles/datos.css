@@ -1,0 +1,22 @@
+.dat-1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+
+
+color: #656565;
+}
+.labelcito{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.dat-5{
+font-family: 'Inter';
+font-style: normal;
+color: #000000;
+
+}

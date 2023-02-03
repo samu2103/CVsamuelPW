@@ -1,0 +1,26 @@
+.text-estu{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 250px;
+
+
+color: hsl(0, 0%, 0%);
+
+}
+.text-estuh4{
+display: flex;
+align-items:center;
+justify-content: space-between;
+flex-direction: column;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+
+
+
+color: #656565;
+
+
+}
